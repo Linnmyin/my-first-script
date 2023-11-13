@@ -1,2 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width" />
+  <title>hello my name is Linn</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>hello my name is Linn</h1>
+  <div id="test"></div>
 
-
+  <script src="script.js"></script>
+</body>
+</html>
+
+
